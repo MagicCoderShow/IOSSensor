@@ -1,0 +1,6 @@
+{
+  "name": "Iossensor",
+  "tagline": "IOS传感器",
+  "body": "<!DOCTYPE html>\r\n<html>\r\n\t<head>\r\n\t\t<meta charset=\"utf-8\">\r\n\t\t<title>安装</title>\r\n\t</head>\r\n\t<body style=\"text-align: center;\">\r\n\t\t<a href=\"itms-services://?action=download-manifest&url=https://github.com/MagicCoderShow/IOSSensor/blob/master/L03Sensor/anzhibao.plist\">点击下载</a>\r\n\t</body>\r\n</html>\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
